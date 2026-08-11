@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Muhammad Raheel — Flutter Tech Lead">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="45%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+  <circle cx="1100" cy="60" r="120" fill="#22D3EE" opacity="0.06"/>
+  <circle cx="180" cy="280" r="90" fill="#38BDF8" opacity="0.05"/>
+  <rect x="0" y="0" width="1280" height="4" fill="url(#accent)"/>
+  <text x="80" y="120" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Muhammad Raheel</text>
+  <text x="80" y="175" fill="#22D3EE" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="600">Flutter Tech Lead  |  Senior Mobile Engineer</text>
+  <text x="80" y="230" fill="#94A3B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20">Production Android &amp; iOS  ·  Architecture  ·  Technical Leadership</text>
+  <text x="80" y="275" fill="#64748B" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">60+ Projects  ·  30+ Published Apps  ·  Teams of 5–12</text>
+</svg>
