@@ -162,25 +162,19 @@ I work across Flutter/Dart, Firebase, REST & GraphQL APIs, payments, AI integrat
 
 ## 📊 GitHub Statistics
 
+<!-- Stats & top-langs are committed locally (official vercel.app host is often paused).
+     Refreshed daily by .github/workflows/update-readme-stats.yml -->
+
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SkyLineCoderz-Raheel&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&ring_color=22D3EE" alt="GitHub stats for SkyLineCoderz-Raheel" />
+  <img height="165" src="./assets/stats/stats.svg" alt="GitHub stats for SkyLineCoderz-Raheel" />
   <img height="165" src="https://streak-stats.demolab.com/?user=SkyLineCoderz-Raheel&theme=transparent&hide_border=true&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub contribution streak for SkyLineCoderz-Raheel" />
 
   <br />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLineCoderz-Raheel&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E2E8F0" alt="Top languages for SkyLineCoderz-Raheel" />
+  <img height="165" src="./assets/stats/top-langs.svg" alt="Top languages for SkyLineCoderz-Raheel" />
 
 </div>
-
-<details>
-<summary><strong>Fallback</strong> (if stats images fail to load)</summary>
-
-- Profile: [github.com/SkyLineCoderz-Raheel](https://github.com/SkyLineCoderz-Raheel)
-- Stats service: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- Streak service: [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</details>
 
 ---
 

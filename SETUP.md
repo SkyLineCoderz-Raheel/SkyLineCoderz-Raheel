@@ -13,12 +13,11 @@ URL after push: `https://github.com/SkyLineCoderz-Raheel/SkyLineCoderz-Raheel`
 | Purpose | Service | URL pattern |
 |---------|---------|-------------|
 | Typing animation | [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | `https://readme-typing-svg.demolab.com/...` |
-| GitHub stats | [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | `https://github-readme-stats.vercel.app/api?username=SkyLineCoderz-Raheel` |
+| GitHub stats / top langs | Local SVGs in `assets/stats/` (refreshed by Actions) | `./assets/stats/stats.svg`, `./assets/stats/top-langs.svg` |
 | Contribution streak | [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) | `https://streak-stats.demolab.com/?user=SkyLineCoderz-Raheel` |
-| Top languages | github-readme-stats | `.../api/top-langs/?username=SkyLineCoderz-Raheel` |
 | Badges | [shields.io](https://shields.io) | `https://img.shields.io/badge/...` |
 
-All are HTTPS and commonly used in GitHub READMEs. Fallbacks are documented in the README stats `<details>` block and as a static title comment under the typing SVG.
+Stats cards are committed locally because the public `github-readme-stats.vercel.app` host is frequently paused (`503 DEPLOYMENT_PAUSED`). Daily refresh: `.github/workflows/update-readme-stats.yml`.
 
 No JavaScript. No unsupported CSS. No App Store Connect URLs.
 
